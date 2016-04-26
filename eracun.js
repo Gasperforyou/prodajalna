@@ -22,7 +22,7 @@ streznik.use(
     resave: false,              // Ne zahtevamo ponovnega shranjevanja
     cookie: {
       maxAge: 3600000           // Seja poteče po 60min neaktivnosti
-    },
+    }
   })
 );
 
